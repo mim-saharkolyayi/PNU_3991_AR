@@ -8,7 +8,6 @@
 - [resume](https://mim-saharkolyayi.github.io/saharkolyayi-fa.github.io/)
 - [SOP](https://mim-saharkolyayi.github.io/SOP/) 
 - [javascript Certificate](js.pdf)
-- [HTML Certificate](html.pdf)
 - [jlord patchwork]()
   
 ------------------
@@ -38,13 +37,13 @@
     <th>روز</th>
   </tr>
   <tr>
+    <th>اصول طراحی کامپایلر</th>
+    <th></th>
+    <th>سیگنال ها و سیستم ها</th>
+    <th>نظریه زبان ها و ماشین ها</th>
     <th></th>
     <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>شنبه</th>
   </tr>
    <tr>
     <th></th>
@@ -53,15 +52,15 @@
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
+    <th>یک شنبه</th>
   </tr>
    <tr>
      <th></th>
+     <th>جبر خطی</th>
      <th></th>
-     <th></th>
-     <th></th>
-     <th></th>
-     <th></th>   
+     <th>طراحی واسط کاربر</th>
+     <th>تعامل انسان و کامپیوتر</th>
+     <th>انقلاب اسلامی</th>   
     <th>دوشنبه</th>
   </tr>
    <tr>
@@ -71,7 +70,7 @@
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
+    <th>سه شنبه</th>
   </tr>
    <tr>
     <th></th>
@@ -80,7 +79,7 @@
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
+    <th>چهار شنبه</th>
   </tr>
    <tr>
     <th></th>
