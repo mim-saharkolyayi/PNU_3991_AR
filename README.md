@@ -21,7 +21,7 @@
 
 ##  بخش دروس کارشناسی
 - [خلاصه ارزیابی درس طراحی واسط کاربر]()
-- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر]()
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/mim-saharkolyayi/PNU_3991_AR/blob/main/HumanComputerInteraction/SK_HumanComputerInteraction_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/mim-saharkolyayi/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/SK_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 ------
