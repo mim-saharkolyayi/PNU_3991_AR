@@ -1,20 +1,3 @@
-## نمونه کتاب ارائه شده در دانشگاه های دیگر 
-
-### Computers and Society
-
-<a href="https://uupload.ir/view/nry6_hci.jpg" target="_blank"><img src="https://uupload.ir/files/nry6_hci_thumb.jpg" border="0" alt="آپلود عکس" /></a>
-
-Ronald M. Baecker
-
-Publisher: Oxford University Press
-
-Published in print: 2019
-
-Published online: November 2020
-
-
-------------------
-
 ### لینک پروژه نهایی
 - [ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
 
