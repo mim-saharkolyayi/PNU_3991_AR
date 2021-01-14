@@ -1,29 +1,3 @@
-## نمونه کتاب ارائه شده در دانشگاه های دیگر
-
-### ELEC-E7851 Computational User Interface Design (5 cr, Period II)
-
-<a href="https://uupload.ir/view/prb6_uid.jpg" target="_blank"><img src="https://uupload.ir/files/prb6_uid_thumb.jpg" border="0" alt="آپلود عکس" /></a>
-
-ارائه شده در دانشگاه آکسفورد
-
-اساتیدی که این کتاب را آموزش میدهند
-
-Prof. Antti Oulasvirta and guest lecturers: Dr. Sunjun Kim
-
-Dr. Aurélien Nioche,
-
-Dr. Kashyap Todi,
-
-Dr. Jussi Jokinen,
-
-Dr. Niraj Dayama,
-
-Dr. Luis Leiva,
-
-PhD students Janin Koch and Pedram Daee.
-
-------------------
-
 ### لینک پروژه نهایی
 - [ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
 
