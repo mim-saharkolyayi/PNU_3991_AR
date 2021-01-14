@@ -75,6 +75,8 @@
 
 ## روز و ساعت ارائه دروس
 
+<div dir="ltr">
+
 <table style="width:100%">
   <tr>
     <th>18-20</th>
